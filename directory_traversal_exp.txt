@@ -1,0 +1,4 @@
+http://*.*.*.*:8888/images/
+http://*.*.*.*:8888/include/
+http://*.*.*.*:8888/include/js
+http://*.*.*.*:8888/include/css
